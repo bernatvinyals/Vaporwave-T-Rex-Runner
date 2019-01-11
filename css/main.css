@@ -42,6 +42,7 @@ html,body{
 .spaceing{
   height: 100px;
   width: 600px;
+  object-fit: scale-down;
 }
 
 
