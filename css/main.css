@@ -45,7 +45,16 @@ html,body{
   object-fit: scale-down;
 }
 
+.sunset{
+	background-image: url("assets/bg1.jpg");
 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 20px;
+}
 
 
 /* Offline page */
